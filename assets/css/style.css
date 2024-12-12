@@ -420,7 +420,7 @@ main {
   transition: var(--transition-2);
 }
 
-.sidebar.active { max-height: 405px; }
+.sidebar.active { max-height: 495px; }
 
 .sidebar-info {
   position: relative;
@@ -597,6 +597,7 @@ main {
 .about .article-title { margin-bottom: 15px; }
 
 .about-text {
+  margin-top: 3rem ;
   color: var(--light-gray);
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
